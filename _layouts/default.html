@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']],
+        displayMath: [ ['$$', '$$'] ],
+        }
+    });
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+  <body>
+
+    {%- include header.html -%}
+    {% if page.use_math %}
+    {% include _mathjax_support.html %}
+    {% endif %}
+    
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+    
+<!--     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=97nUU-FjSo3XTeI1STkdpKlUaW4UMyu7RVO1xutT1PA"></script> -->
+    
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
