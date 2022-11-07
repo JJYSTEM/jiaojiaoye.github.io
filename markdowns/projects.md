@@ -29,7 +29,7 @@ Apply Deep Reinforcement Learning (DDPG specifically) to control [Torcs](https:/
 
 Vision-based Poppy Humanoid robot reaching Movement Learning with Deep Deterministic Policy Gradient(DDPG).
 
-[[post]](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/motion_learning_with_rl) [[video]](https://youtu.be/oOG4bsWDT0M) [[code]](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
+[[video]](https://youtu.be/oOG4bsWDT0M) [[code]](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
 
 ![](/assets/imgs/poppy.gif ){:height="50%" width="50%" align="center"}
 
