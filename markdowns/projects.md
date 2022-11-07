@@ -23,7 +23,7 @@ Apply Deep Reinforcement Learning (DDPG specifically) to control [Torcs](https:/
 
 [[video]](https://youtu.be/B1JdUByUQEw) [[torchs img]](https://drive.google.com/uc?id=1DaJIMTrMArL7ODlry6aDYG2w3XFr3_UC&export=download)
 
-![](/assets/imgs/torcs.gif ){:height="50%" width="50%" align="center"}
+![](/jiaojiaoye/assets/imgs/torcs.gif ){:height="50%" width="50%" align="center"}
 
 - **Motion Planning with Reinforcement Learning** 
 
@@ -31,7 +31,7 @@ Vision-based Poppy Humanoid robot reaching Movement Learning with Deep Determini
 
 [[video]](https://youtu.be/oOG4bsWDT0M) [[code]](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
 
-![](/assets/imgs/poppy.gif ){:height="50%" width="50%" align="center"}
+![](/jiaojiaoye/assets/imgs/poppy.gif ){:height="50%" width="50%" align="center"}
 
 - **Face segmentation**
 
@@ -39,4 +39,4 @@ Real-time human face segmentation based on webcam through lightweight LinkNet34 
 
 [[code]](https://github.com/Oneflow-Inc/oneflow_vision_model/tree/main/face_seg)
 
-![](/assets/imgs/faceseg_demo.gif ){:height="50%" width="50%" align="center"}
+![](/jiaojiaoye/assets/imgs/faceseg_demo.gif ){:height="50%" width="50%" align="center"}
