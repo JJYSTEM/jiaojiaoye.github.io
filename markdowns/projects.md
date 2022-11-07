@@ -14,7 +14,7 @@ Deep Learning for robot motion planning in human-robot interaction (HRI). We pro
 
 [[post]](/jiaojiaoye/publication/cvae4hri_final) [[paper]](https://github.com/JiaojiaoYe1994/jiaojiaoye.github.com/blob/master/posts/paper/Sequence_model_for_hri.pdf)
 
-![](/assets/imgs/mia_panda.gif ){:height="50%" width="50%" align="center"}
+![](/jiaojiaoye/assets/imgs/mia_panda.gif ){:height="50%" width="50%" align="center"}
 <!-- <img src="/assets/imgs/lstm-cvae_framework.png"> -->
 
 - **Car racing game playing**
