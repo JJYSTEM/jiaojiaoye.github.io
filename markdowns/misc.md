@@ -15,19 +15,19 @@ I've worked through Stanford's Convolutional Neural Networks for Visual Recognit
 ### Blog
 * **Image translation papers**
 
-In this [blog](/blog/img_translation_paper), I summarize some recent papers from CVPR. ECCV related to topic image translation.
+In this [blog](/jiaojiaoye/blog/img_translation_paper), I summarize some recent papers from CVPR. ECCV related to topic image translation.
 
 
 * **Sequence model**
 
-In this [blog](/blog/sequence_model), I summarize some papers related to topic Conditional VAE and Human-Robot Interaction,.
+In this [blog](/jiaojiaoye/blog/sequence_model), I summarize some papers related to topic Conditional VAE and Human-Robot Interaction,.
 
 * **Segmentation**
 
-In this [blog](/blog/segmentation), I show a brief introduction of image segmentation and summarize some awesome work of this direction. 
+In this [blog](/jiaojiaoye/blog/segmentation), I show a brief introduction of image segmentation and summarize some awesome work of this direction. 
 
 
 
 ### Hobby
-- [dance](/hobby/dance)
-- [painting](/hobby/painting)
+- [dance](/jiaojiaoye/hobby/dance)
+- [painting](/jiaojiaoye/hobby/painting)
