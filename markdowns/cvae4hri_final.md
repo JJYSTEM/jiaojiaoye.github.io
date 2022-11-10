@@ -16,20 +16,20 @@ Condition on a human motion, how could a robot react? We human has diverse react
 
 * LSTM-based CVAE as a motion planner
 
-We collect a data set of human-robot interactions for training and validation. Each demonstration consists of the robot end-effector positions in the cartesian space <img src="/assets/cvae4hri/pos_robot.png" class="inline"/>, and the positions of the human hand <img src="/assets/cvae4hri/pos_human.png" class="inline"/>, with $M$ time steps. The test data is generated online.
+We collect a data set of human-robot interactions for training and validation. Each demonstration consists of the robot end-effector positions in the cartesian space <img src="/jiaojiaoye/assets/cvae4hri/pos_robot.png" class="inline"/>, and the positions of the human hand <img src="/jiaojiaoye/assets/cvae4hri/pos_human.png" class="inline"/>, with $M$ time steps. The test data is generated online.
 
-To implement an LSTM-based CVAE for HRI, the input of the model is <img src="/assets/cvae4hri/eq_input.png" class="inline"/> and the output is the control signal $\mathbf{y} = \ddot{\mathbf{s}}_r^{t+1:t+T}$​, where $t \in [2 \dots M-T]$. $\mathbf{x}^t_h$ and $\mathbf{x}^t_r$​​​, consisting of the position, velocity, and acceleration, are the state of human and robot past trajectory from time step one to the current time step $t$​​​​​​​​ (see the notation in Fig. 1). The long output of the model from time step $t$ to $T$ is only used in the training and validation processes, resulting in more accurate predictions. However, we only use $\ddot{s}_r^{t+1}$ for testing.
+To implement an LSTM-based CVAE for HRI, the input of the model is <img src="/jiaojiaoye/assets/cvae4hri/eq_input.png" class="inline"/> and the output is the control signal $\mathbf{y} = \ddot{\mathbf{s}}_r^{t+1:t+T}$​, where $t \in [2 \dots M-T]$. $\mathbf{x}^t_h$ and $\mathbf{x}^t_r$​​​, consisting of the position, velocity, and acceleration, are the state of human and robot past trajectory from time step one to the current time step $t$​​​​​​​​ (see the notation in Fig. 1). The long output of the model from time step $t$ to $T$ is only used in the training and validation processes, resulting in more accurate predictions. However, we only use $\ddot{s}_r^{t+1}$ for testing.
 
-Given a recognition model <img src="/assets/cvae4hri/q_phi.png" class="inline"/>, a generation model <img src="/assets/cvae4hri/p_theta.png" class="inline"/>, and a conditional prior model <img src="/assets/cvae4hri/p.png" class="inline"/>, we approximates the evidence lower bound (ELBO) of the CVAE [[3]](#3):
+Given a recognition model <img src="/jiaojiaoye/assets/cvae4hri/q_phi.png" class="inline"/>, a generation model <img src="/jiaojiaoye/assets/cvae4hri/p_theta.png" class="inline"/>, and a conditional prior model <img src="/jiaojiaoye/assets/cvae4hri/p.png" class="inline"/>, we approximates the evidence lower bound (ELBO) of the CVAE [[3]](#3):
 
 <p align="center">
-<img src="/assets/cvae4hri/eq_Lcvae.png">
+<img src="/jiaojiaoye/assets/cvae4hri/eq_Lcvae.png">
 </p>
 
 where $N$ is the number of samples. Given $\mathbf{x}$, $\mathbf{z}$ is able to model multiple modes in conditional distribution of the output $\mathbf{y}$.
 
 <p align="center">
-<img src="/assets/cvae4hri/lstm-cvae_framework.png">
+<img src="/jiaojiaoye/assets/cvae4hri/lstm-cvae_framework.png">
 <em>Figure 1. The proposed model.</em>
 </p>
  
@@ -40,7 +40,7 @@ where $N$ is the number of samples. Given $\mathbf{x}$, $\mathbf{z}$ is able to 
 Demonstration collection on a real robot is inefficient and time-consuming. Therefore, we use mixup [[2]](#2) for data augmentation. In the original mixup method, discrete datapoints are augmented. Given demonstration $a$ and $b$, we adapt this technique to our specific sequential interaction dataset for both human and robot trajectories, 
 <!-- $\mathbf{s}_{aug}^{0:T} = \lambda \mathbf{s}_{a}^{0:T} + (1-\lambda) \mathbf{s}_{b}^{0:T}$,  -->
 <p align="center">
-<img src="/assets/cvae4hri/eq_mixup.png">
+<img src="/jiaojiaoye/assets/cvae4hri/eq_mixup.png">
 </p>
  
 where $\lambda$ is randomly sampled. 
@@ -52,7 +52,7 @@ where $\lambda$ is randomly sampled.
 To encourage the diversity of the generator, we employ the best of many samples [[4]](#4 ). It estimates the log-likelihood over the full distribution, instead of Monto-Carlo sampling,
 
 <p align="center">
-<img src="/assets/cvae4hri/eq_Lms.png">
+<img src="/jiaojiaoye/assets/cvae4hri/eq_Lms.png">
 </p>
 <!-- $$
 \begin{align*}
@@ -63,7 +63,7 @@ $$ -->
 According to Jensen's inequality, $\mathcal{L}_{BMS}$ leads to a tighter estimator to the log-likelihood
 
 <p align="center">
-<img src="/assets/cvae4hri/eq_Lbms.png">
+<img src="/jiaojiaoye/assets/cvae4hri/eq_Lbms.png">
 </p>
 
 <!-- $$
@@ -79,7 +79,7 @@ $$ -->
 The model probably fails in motion planning due to long-term dynamics and interaction in the physical environment. We introduce a $\mathcal{L}_{Traj}$​ to regularise the velocity and position,
 
 <p align="center">
-<img src="/assets/cvae4hri/eq_Ltraj.png">
+<img src="/jiaojiaoye/assets/cvae4hri/eq_Ltraj.png">
 </p>
 
 <!-- $$
@@ -95,7 +95,7 @@ where $f$​​ represents the robot dynamic system, and $\ddot{\hat{\mathbf{s}}
 In addition, we introduce a terminal distance term to regularise the distance between the robot end-effector position and the desired target position,
 
 <p align="center">
-<img src="/assets/cvae4hri/eq_Ltd.png">
+<img src="/jiaojiaoye/assets/cvae4hri/eq_Ltd.png">
 </p>
 
 <!-- $$
@@ -105,7 +105,7 @@ $$ -->
 We then rewrite the loss function
 
 <p align="center">
-<img src="/assets/cvae4hri/eq_Lcvae-hri.png">
+<img src="/jiaojiaoye/assets/cvae4hri/eq_Lcvae-hri.png">
 </p>
 
 <!-- $$
@@ -123,16 +123,16 @@ We illustrate our approach on a Franka Emika Panda robot arm interacting with hu
 
 
 <p align="center">
-<img  width="50%" src="/assets/cvae4hri/mia_panda.gif" alt="animated" />
+<img  width="50%" src="/jiaojiaoye/assets/cvae4hri/mia_panda.gif" alt="animated" />
 <!-- ![](/assets/cvae4hri/mia_panda.gif ){:height="50%" width="50%" align="center"} -->
 </p>
 
 <p align="center">
-<img  width="50%" src="/assets/cvae4hri/q_m2_185001.gif" alt="animated" />
+<img  width="50%" src="/jiaojiaoye/assets/cvae4hri/q_m2_185001.gif" alt="animated" />
 </p>
 
 <p align="center">
-<img  width="50%" src="/assets/cvae4hri/q_out_191046.gif" alt="animated" />
+<img  width="50%" src="/jiaojiaoye/assets/cvae4hri/q_out_191046.gif" alt="animated" />
 <!-- ![](/assets/cvae4hri/q_out_191046.gif ){:height="50%" width="50%" align="center"} -->
 </p>
 
