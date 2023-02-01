@@ -51,17 +51,17 @@ My research interest locates in the following area:
 
 
 
-<img src="/jiaojiaoye/assets/imgs/logo_zjlab.jpeg"> 
+<img src="/jiaojiaoye/assets/imgs/logo_zjlab.jpeg" height="200"> 
 
-<img src="/jiaojiaoye/assets/imgs/logo_argmax_volkswagen.png"> 
+<img src="/jiaojiaoye/assets/imgs/logo_argmax_volkswagen.png" height="200"> 
 
-<img src="/jiaojiaoye/assets/imgs/logo_bosch.png"> 
+<img src="/jiaojiaoye/assets/imgs/logo_bosch.png" height="200">  
 
-<img src="/jiaojiaoye/assets/imgs/logo_fortiss.jpeg"> 
+<img src="/jiaojiaoye/assets/imgs/logo_fortiss.jpeg" height="200"> 
 
-<img src="/jiaojiaoye/assets/imgs/logo_Technical_University_of_Munich.png"> 
+<img src="/jiaojiaoye/assets/imgs/logo_Technical_University_of_Munich.png" height="200"> 
 
-<img src="/jiaojiaoye/assets/imgs/logo_Zhejiang_University.png"> 
+<img src="/jiaojiaoye/assets/imgs/logo_Zhejiang_University.png" height="200"> 
 
 
 
