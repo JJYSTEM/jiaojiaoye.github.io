@@ -47,4 +47,24 @@ My research interest locates in the following area:
 
 
 
+## Experience
+
+
+
+<img src="/jiaojiaoye/assets/imgs/logo_zjlab.jpeg"> 
+
+<img src="/jiaojiaoye/assets/imgs/logo_argmax_volkswagen.png"> 
+
+<img src="/jiaojiaoye/assets/imgs/logo_bosch.png"> 
+
+<img src="/jiaojiaoye/assets/imgs/logo_fortiss.jpeg"> 
+
+<img src="/jiaojiaoye/assets/imgs/logo_Technical_University_of_Munich.png"> 
+
+<img src="/jiaojiaoye/assets/imgs/logo_Zhejiang_University.png"> 
+
+
+
+
+
 <a href="https://clustrmaps.com/site/1br1t"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=97nUU-FjSo3XTeI1STkdpKlUaW4UMyu7RVO1xutT1PA&cl=ffffff" /></a>
