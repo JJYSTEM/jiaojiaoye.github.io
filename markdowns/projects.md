@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+<img src="/jiaojiaoye/assets/imgs/timeline.png" class="inline"/>
+
 - **Conditional VAE in Human-Robot Interaction** 
 
 Deep Learning for robot motion planning in human-robot interaction (HRI). We propose a real-time probabilistic model using LSTM-based conditional variational autoencoder (CVAE) for structured robot control policy learning and inference. 
