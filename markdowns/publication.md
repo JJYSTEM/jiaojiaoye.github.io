@@ -22,6 +22,6 @@ Mingpan Guo, Stefan Matthes, **Jiaojiao Ye** and Hao Shen (2019).  arXiv preprin
 
 <a id="3">[3]</a> An effective coaxiality error measurement for twist drill based on line structured light sensor.
 
-Ailing Cheng, **Jiaojiao Ye**, Fei Yang, Shufang Lu, Fei Gao (2022). In-progress preprint.
+Ailing Cheng, **Jiaojiao Ye**, Fei Yang, Shufang Lu, Fei Gao (2022). in *IEEE Transactions on Instrumentation and Measurement*, vol. 71, pp. 1-17, 2022, Art no. 7006517, doi: 10.1109/TIM.2022.3198488.
 
 [[paper]](https://ieeexplore.ieee.org/document/9855529/) 
