@@ -53,4 +53,37 @@ My research interest locates in the following area:
 
 
 
+## Research Projects
+
+- **Conditional VAE in Human-Robot Interaction** 
+
+Deep Learning for robot motion planning in human-robot interaction (HRI). We propose a real-time probabilistic model using LSTM-based conditional variational autoencoder (CVAE) for structured robot control policy learning and inference. 
+
+**Supervisor**: [Prof. Dr. Patrick van der Smagt](https://argmax.ai/team/patrick-van-der-smagt/), [Prof. Dr.-Ing. Sami Haddadin](https://en.wikipedia.org/wiki/Sami_Haddadin)
+
+**Keynotes**: Variational AutoEncoder, BiLSTM, Human-Robot Interaction, Learning from Demonstration
+
+[[post]](/jiaojiaoye/publication/cvae4hri_final) [[paper]](https://github.com/JiaojiaoYe1994/jiaojiaoye.github.com/blob/master/posts/paper/Sequence_model_for_hri.pdf)
+
+![](/jiaojiaoye/assets/imgs/mia_panda.gif ){:height="50%" width="50%" align="center"}
+<!-- <img src="/assets/imgs/lstm-cvae_framework.png"> -->
+
+- **Car racing game playing**
+
+Apply Deep Reinforcement Learning (DDPG specifically) to control [Torcs](https://sourceforge.net/projects/torcs/) (a car racing game) agent's movement. At each time step, car can move by steering, accelerating and braking. 
+
+[[video]](https://youtu.be/B1JdUByUQEw) [[torchs img]](https://drive.google.com/uc?id=1DaJIMTrMArL7ODlry6aDYG2w3XFr3_UC&export=download)
+
+![](/jiaojiaoye/assets/imgs/torcs.gif ){:height="50%" width="50%" align="center"}
+
+- **Motion Planning with Reinforcement Learning** 
+
+Vision-based Poppy Humanoid robot reaching Movement Learning with Deep Deterministic Policy Gradient(DDPG).
+
+[[video]](https://youtu.be/oOG4bsWDT0M) [[code]](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
+
+![](/jiaojiaoye/assets/imgs/poppy.gif ){:height="50%" width="50%" align="center"}
+
+
+
  <a href="https://clustrmaps.com/site/1br1t"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=97nUU-FjSo3XTeI1STkdpKlUaW4UMyu7RVO1xutT1PA&cl=ffffff" /></a>
