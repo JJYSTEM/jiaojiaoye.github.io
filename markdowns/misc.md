@@ -13,6 +13,10 @@ I've worked through Stanford's Convolutional Neural Networks for Visual Recognit
 
 
 ### Blog
+* **Inference acceleration**
+
+  In this [blog](https://zhuanlan.zhihu.com/p/659723053), I summarized some inference acceleration technologies, inncluding GPU acceleration, model compression, distributed computing. 
+
 * **Image translation papers**
 
 In this [blog](/jiaojiaoye/blog/img_translation_paper), I summarize some recent papers from CVPR. ECCV related to topic image translation.
