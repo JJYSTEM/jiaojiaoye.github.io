@@ -33,5 +33,4 @@ I've worked through Stanford's Convolutional Neural Networks for Visual Recognit
 
 
 ### Hobby
-- [dance](/jiaojiaoye/hobby/dance)
 - [painting](/jiaojiaoye/hobby/painting)
