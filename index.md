@@ -86,4 +86,12 @@ Vision-based Poppy Humanoid robot reaching Movement Learning with Deep Determini
 
 
 
+## Talk and Services
+
+* 2023 Talk about **Overview of Stable Diffusion** in the event organized by Datawhale, Epubit, Hugging Face,  
+
+[[video]](https://www.bilibili.com/video/BV1hg4y1R7i5/?spm_id_from=333.1007.0.0&vd_source=6a179693a78e3c2c5a1d0b69c2726668) [[poster]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/CVAE_MC.png)
+
+
+
  <a href="https://clustrmaps.com/site/1br1t"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=97nUU-FjSo3XTeI1STkdpKlUaW4UMyu7RVO1xutT1PA&cl=ffffff" /></a>
