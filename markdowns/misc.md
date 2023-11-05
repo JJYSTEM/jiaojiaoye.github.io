@@ -34,3 +34,10 @@ I've worked through Stanford's Convolutional Neural Networks for Visual Recognit
 
 ### Hobby
 - [painting](/jiaojiaoye/hobby/painting)
+
+
+
+### Unsorted resources
+
+* [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy, Sep 2016
+* [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html) by [Jennifer Widom](http://infolab.stanford.edu/~widom), Jan 2016
