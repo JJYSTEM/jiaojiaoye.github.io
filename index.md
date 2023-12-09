@@ -41,7 +41,7 @@ My research wish is to build a robust, fully automated system with learning-base
 
 My research interest locates in the following area:
 
-* Perception
+* Generative Model
 * Robot Learning
 * Reinforcement Learning
 
@@ -90,6 +90,7 @@ Vision-based Poppy Humanoid robot reaching Movement Learning with Deep Determini
 
 * 2023 Talk about **Overview of Stable Diffusion** in the event organized by Datawhale, Epubit, Hugging Face  [[video]](https://www.bilibili.com/video/BV1hg4y1R7i5/?spm_id_from=333.1007.0.0&vd_source=6a179693a78e3c2c5a1d0b69c2726668) [[poster]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2023SD_datawhale.PNG)
 * 2023 China National Computer Congress by China Computer Federation [poster](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2023CNCC.JPG)
+* Tutorial on Inference Speedup [tutorial](https://zhuanlan.zhihu.com/p/659723053)
 
 
 
