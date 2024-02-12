@@ -49,7 +49,7 @@ My research interest locates in the following area:
 
 ## Experience
 
-<img src="/jiaojiaoye/assets/imgs/logo_zjlab.jpeg" height="100"> <img src="/jiaojiaoye/assets/imgs/logo_argmax_volkswagen.png" height="100"> <img src="/jiaojiaoye/assets/imgs/logo_bosch.png" height="100">  <img src="/jiaojiaoye/assets/imgs/logo_fortiss.jpeg" height="100"> <img src="/jiaojiaoye/assets/imgs/logo_tu_munich.png" height="100"> <img src="/jiaojiaoye/assets/imgs/logo_Zhejiang_University.png" height="100">
+ <img src="/jiaojiaoye/assets/imgs/logo_argmax_volkswagen.png" height="100"> <img src="/jiaojiaoye/assets/imgs/logo_bosch.png" height="100">  <img src="/jiaojiaoye/assets/imgs/logo_fortiss.jpeg" height="100"> <img src="/jiaojiaoye/assets/imgs/logo_tu_munich.png" height="100"> <img src="/jiaojiaoye/assets/imgs/logo_Zhejiang_University.png" height="100">
 
 
 
