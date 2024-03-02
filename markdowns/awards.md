@@ -4,7 +4,6 @@ title: Awards
 permalink: /awards/
 ---
 
-* Research Grant, 2024
 * Team Annual Contribution Award, Zhejiang Lab, 2020
 * 1st Scholarships for International Students, Technical University of Munich, Jun 2018
 * 1st Scholarships for International Students, Technical University of Munich, Nov 2017
