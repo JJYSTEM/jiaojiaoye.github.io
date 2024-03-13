@@ -39,6 +39,7 @@ I've worked through Stanford's Convolutional Neural Networks for Visual Recognit
 
 ### Unsorted resources
 
+* [How to ML Paper](https://docs.google.com/document/d/16R1E2ExKUCP5SlXWHr-KzbVDx9DBUclra-EbU8IB-iE/edit#heading=h.16t67gkeu9dx) by [Jakob Foerster](https://www.jakobfoerster.com/), Associate Professor, May 2022
 * [How to be a LARG Student](https://larg.github.io/peter.htm) by [Peter Stone](https://www.cs.utexas.edu/~pstone/news.shtml), July 2022
 * [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/) by [Andrej Karpathy](https://karpathy.ai/tweets.html), Sep 2016
 * [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html) by [Jennifer Widom](http://infolab.stanford.edu/~widom), Jan 2016
