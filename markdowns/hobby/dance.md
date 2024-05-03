@@ -4,9 +4,9 @@ title: Dance
 permalink: /hobby/dance/
 ---
 
-### <img src="/jiaojiaoye/assets/imgs/2022_anniversary.jpg" height="100"> 
+### 
 
-<img src="/jiaojiaoye/assets/imgs/zjdfm_chreo.jpg" height="100"> 
+<img src="/jiaojiaoye/assets/imgs/zjdfm_chreo.jpg" height="200"> 
 
 ### Bio
 
@@ -27,6 +27,8 @@ I am founder and chair of Dance Community in Zhejiang Lab. I have danced for aro
 [Highheel Jazz, 2022.10 at Hangzhou](https://www.bilibili.com/video/BV1Ht4y1F7cV?share_source=copy_web&vd_source=bb0c9ea17c17051a2d52d79b1b5f5985)
 
 
+
+<img src="/jiaojiaoye/assets/imgs/2022_anniversary.jpg" height="200"> 
 
 
 ### Awards and Competition
