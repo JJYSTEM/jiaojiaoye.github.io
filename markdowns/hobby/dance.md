@@ -7,22 +7,27 @@ permalink: /hobby/dance/
 
 ### Bio
 
-I am founder and chair of Dance Community in Zhejiang Lab. I have danced for around 10 years, in the range of chinese traditional dance, hiphop, jazz, kpop, ballet. I have given perfomarance in different stages, Yuqu theater, Munich SDI, Saarrsbrueck etc., and attended commpetitions of Kpop, cheerleading etc. I also attended workshops of some famous dancers, such as world champion Majid, Bam Martin.
+I am founder and chair of Dance Community in Zhejiang Lab. I have danced for around 10 years, in the range of chinese traditional dance, hiphop, jazz, kpop, ballet. I have given perfomarance in China, Germany, France, including Yuqu theater, Munich SDI, Saarrsbrueck etc.  I also attended commpetitions of Kpop, cheerleading, workshops of some famous dancers, such as world champion Majid, Bam Martin.
 
-* Chair of Dance Clubs in Zhejiang Lab
+* Founder and Chair of Dance Clubs[[1]]((https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/21_cheerlead.JPG) [[2]]((https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/22_anniversary.JPG) [[3]]((https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/23zjdfm.JPG)   in Zhejiang Lab
 * Member of Eclipse Dance Crew
-* Member of Dance crew in Zhejiang Uni
+* Committee of Dance crew in Zhejiang Uni
 * Teamleader of Cheerleading crew in Department of Control Science in Zhejiang Uni
+
+[[poster]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2024Sora.jpg)
 
 
 ### News
 [Highheel Jazz, 2022.10 at Hangzhou](https://www.bilibili.com/video/BV1Ht4y1F7cV?share_source=copy_web&vd_source=bb0c9ea17c17051a2d52d79b1b5f5985)
 
 
+
+
 ### Awards and Competition
 
+* 2rd Place in Zhejiang Team Competition
 * 3rd Prize at Cheerleading competition
-* Framkfurt Kpop competition
+* Frankfurt Kpop competition
 
 
 

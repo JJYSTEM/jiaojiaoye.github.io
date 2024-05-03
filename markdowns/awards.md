@@ -4,6 +4,7 @@ title: Awards
 permalink: /awards/
 ---
 
+* Research Grant, University of Oxford, 2024
 * Team Annual Contribution Award, Zhejiang Lab, 2020
 * **Merit Student**, Technical University of Munich
 * 1st Scholarships for International Students, Technical University of Munich, Jun 2018
