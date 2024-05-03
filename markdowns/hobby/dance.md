@@ -4,9 +4,9 @@ title: Dance
 permalink: /hobby/dance/
 ---
 
-### 
 
-<img src="/jiaojiaoye/assets/imgs/zjdfm_chreo.jpg" height="200"> 
+
+<img src="/jiaojiaoye/assets/imgs/zjdfm_chreo.jpg" height="300"> 
 
 ### Bio
 
@@ -23,12 +23,15 @@ I am founder and chair of Dance Community in Zhejiang Lab. I have danced for aro
   
 
 
-### News
+### News🆕
 [Highheel Jazz, 2022.10 at Hangzhou](https://www.bilibili.com/video/BV1Ht4y1F7cV?share_source=copy_web&vd_source=bb0c9ea17c17051a2d52d79b1b5f5985)
+
+[Chili](https://www.bilibili.com/video/BV1ao4y117RX/?spm_id_from=333.999.0.0)
 
 
 
 <img src="/jiaojiaoye/assets/imgs/2022_anniversary.jpg" height="200"> 
+
 
 
 ### Awards and Competition
@@ -39,21 +42,13 @@ I am founder and chair of Dance Community in Zhejiang Lab. I have danced for aro
 
 
 
-### Cheerleading show
+### Performance
 
 [Basketball competition final, 2021.07 at Zhejiang Lab](https://www.bilibili.com/video/BV1n44y1m7An?spm_id_from=333.999.0.0)
 
 [Basketball competition final, 2020.08 at Zhejiang Lab](https://www.bilibili.com/video/BV16V411m7hp?spm_id_from=333.999.0.0)
 
-
-
-### Performance
-
 [ Spring Festivals, 2019.01 at International University SDI MÜNCHEN](https://www.bilibili.com/video/BV1Qy4y1q7sW?spm_id_from=333.999.0.0)
-
-
-
-### Video shot
 
 [2019 Crew chreo, at Munich Odeonsplatz](https://www.bilibili.com/video/BV1m4411Z7rs?spm_id_from=333.999.0.0)
 
