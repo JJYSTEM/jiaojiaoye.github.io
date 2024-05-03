@@ -37,5 +37,11 @@ Jennifer Connelly in Once Upon a Time in America, 2020.06 during quarantine in S
 
 Natalia Portman in Léon, 2020.06 during quarantine in Shanghai
 
-<img src='/jiaojiaoye/assets/imgs/natalia_portman.JPG' height="300">
+<p align='center'> 
+  <img src='/jiaojiaoye/assets/imgs/natalia_portman.JPG' height="300">
+<p/>
+
+  
+
+<p/>
 

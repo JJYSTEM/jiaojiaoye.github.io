@@ -10,9 +10,9 @@ permalink: /hobby/dance/
 
 ### Bio
 
-I am founder and chair of Dance Community in Zhejiang Lab. I have danced for around 10 years, in the range of chinese traditional dance, hiphop, jazz, kpop, ballet. I have given perfomarance in China, Germany, France, including Yuqu theater, Munich SDI, Saarrsbrueck etc.  I also attended commpetitions of Kpop, cheerleading, workshops of some famous dancers, such as world champion Majid, Bam Martin.
+I am the founder and chairperson of the Dance Community at Zhejiang Lab. Since I was kid, I have cultivated my skills in various dance styles including Chinese traditional, Jazz, K-pop, and Ballet. My performances have graced stages across China, Germany, and France, including renowned venues such as the Yuqu Theater, Munich SDI, and Saarrsbrueck. I also attended commpetitions of Kpop, cheerleading, workshops of some famous dancers, such as world champion Majid, Bam Martin.
 
-* Founder and Chair of Dance Clubs[[1]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/21_cheerlead.JPG) [[2]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/22_anniversary.JPG) [[3]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/23zjdfm.JPG) [[4]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/20_kpop.JPG) in Zhejiang Lab
+* Founder and Chair of Dance Clubs[[1]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/21_cheerlead.JPG) [[2]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/22_anniversary.JPG) [[3]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/23zjdfm.JPG) [[4]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/20_kpop.JPG) at Zhejiang Lab
 
 * Member of Eclipse Dance Crew
 
