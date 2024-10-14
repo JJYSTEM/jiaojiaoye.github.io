@@ -21,7 +21,7 @@ layout: home
                 <a href="https://en.zhejianglab.com/">Zhejiang Lab </a> <br>
                 <br>
                 <b>Email</b>: <a href="mailto:jiaojiao.ye@tum.de">jiaojiao.ye@tum.de </a> <br>
-                <a href="https://github.com/JiaojiaoYe1994">[GitHub] </a>  <a href="https://argmax.ai/team/jiaojiao-ye/">[Profile] </a>  <br>
+                <a href="https://github.com/JiaojiaoYe1994">[GitHub] </a>  <a href="https://argmax.ai/team/jiaojiao-ye/">[Profile] </a> <a href="https://www.cs.ox.ac.uk/people/jiaojiao.ye/">[Official Account] </a>  <br>
             </p>
         </td>
         </tr>
@@ -31,7 +31,7 @@ layout: home
  -->
 I am currently a senior AI researcher in Intelligent Computing research center at [Zhejiang Lab](https://en.zhejianglab.com/), focusing on Generative Model and Reinforcement Learning.
 
-I obtained master from [Technical University of Munich](https://www.tum.de/en/), Bachelor from Zhejiang University. During my undergraduate, I was fortunate to conduct thesis research under supervision of [Prof. Dibo Hou](https://person.zju.edu.cn/en/houdb), [Prof. Dr. Patrick van der Smagt](https://scholar.google.de/citations?user=5ybzvbsAAAAJ&hl=en), [Prof. Sami Haddadin](https://en.wikipedia.org/wiki/Sami_Haddadin), [Dr. Alexandros Paraschos](https://scholar.google.com/citations?user=aCz_QHUAAAAJ), and [Dr. Nutan Chen](https://scholar.google.com/citations?user=HH3n9scAAAAJ&hl=de).
+I am PhD student at the University of Oxford, obtained master from [Technical University of Munich](https://www.tum.de/en/), Bachelor from Zhejiang University. During my undergraduate, I was fortunate to conduct thesis research under supervision of [Prof. Dibo Hou](https://person.zju.edu.cn/en/houdb), [Prof. Dr. Patrick van der Smagt](https://scholar.google.de/citations?user=5ybzvbsAAAAJ&hl=en), [Prof. Sami Haddadin](https://en.wikipedia.org/wiki/Sami_Haddadin), [Dr. Alexandros Paraschos](https://scholar.google.com/citations?user=aCz_QHUAAAAJ), and [Dr. Nutan Chen](https://scholar.google.com/citations?user=HH3n9scAAAAJ&hl=de).
 
 
 ## Research interest
