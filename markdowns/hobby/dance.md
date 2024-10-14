@@ -14,6 +14,8 @@ I am the founder and chairperson of the Dance Community at Zhejiang Lab. Since I
 
 * Founder and Chair of Dance Clubs[[1]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/21_cheerlead.JPG) [[2]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/22_anniversary.JPG) [[3]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/23zjdfm.JPG) [[4]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/20_kpop.JPG) at Zhejiang Lab
 
+* Member of PhoenOx Chinese Dance at University of Oxford
+
 * Member of Eclipse Dance Crew
 
 * Committee of Dance crew in Zhejiang Uni
