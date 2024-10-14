@@ -27,6 +27,7 @@ layout: home
         </tr>
     </tbody>
 </table>
+
 <!-- [[GitHub]](https://github.com/JiaojiaoYe1994) [[Linkedin]](https://www.linkedin.com/in/jiaojiao-ye-99830b14a/) [[Profile]](https://argmax.ai/team/jiaojiao-ye/) <br>
  -->
 I am currently a senior AI researcher in Intelligent Computing research center at [Zhejiang Lab](https://en.zhejianglab.com/), focusing on Generative Model and Reinforcement Learning.
@@ -58,7 +59,7 @@ My research interest locates in the following area:
 
 ## Experience
 
- <img src="/jiaojiaoye/assets/imgs/logo_argmax_volkswagen.png" height="100"> <img src="/jiaojiaoye/assets/imgs/logo_bosch.png" height="100">  <img src="/jiaojiaoye/assets/imgs/logo_fortiss.jpeg" height="100"> <img src="/jiaojiaoye/assets/imgs/logo_tu_munich.png" height="100"> <img src="/jiaojiaoye/assets/imgs/logo_Zhejiang_University.png" height="100">
+<img src="/jiaojiaoye/assets/imgs/logo_oxford.png" height="100"> <img src="/jiaojiaoye/assets/imgs/logo_argmax_volkswagen.png" height="100"> <img src="/jiaojiaoye/assets/imgs/logo_bosch.png" height="100">  <img src="/jiaojiaoye/assets/imgs/logo_fortiss.jpeg" height="100"> <img src="/jiaojiaoye/assets/imgs/logo_tu_munich.png" height="100"> <img src="/jiaojiaoye/assets/imgs/logo_Zhejiang_University.png" height="100">
 
 
 
