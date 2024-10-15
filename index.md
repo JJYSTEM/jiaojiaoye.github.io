@@ -42,7 +42,7 @@ My research wish is to build a robust, fully automated system with learning-base
 My research interest locates in the following area:
 
 * Generative Model
-* Robot Learning
+* Embodied AI
 * Reinforcement Learning
 
 
