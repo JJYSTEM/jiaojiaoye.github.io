@@ -30,14 +30,13 @@ layout: home
 
 <!-- [[GitHub]](https://github.com/JiaojiaoYe1994) [[Linkedin]](https://www.linkedin.com/in/jiaojiao-ye-99830b14a/) [[Profile]](https://argmax.ai/team/jiaojiao-ye/) <br>
  -->
-I am currently a senior AI researcher in Intelligent Computing research center at [Zhejiang Lab](https://en.zhejianglab.com/), focusing on Generative Model and Reinforcement Learning.
 
-I am PhD student at the University of Oxford, obtained master from [Technical University of Munich](https://www.tum.de/en/), Bachelor from Zhejiang University. During my undergraduate, I was fortunate to conduct thesis research under supervision of [Prof. Dibo Hou](https://person.zju.edu.cn/en/houdb), [Prof. Dr. Patrick van der Smagt](https://scholar.google.de/citations?user=5ybzvbsAAAAJ&hl=en), [Prof. Sami Haddadin](https://en.wikipedia.org/wiki/Sami_Haddadin), [Dr. Alexandros Paraschos](https://scholar.google.com/citations?user=aCz_QHUAAAAJ), and [Dr. Nutan Chen](https://scholar.google.com/citations?user=HH3n9scAAAAJ&hl=de).
+I am PhD student at the University of Oxford, obtained master from [Technical University of Munich](https://www.tum.de/en/) supervised by [Prof. Dr. Patrick van der Smagt](https://scholar.google.de/citations?user=5ybzvbsAAAAJ&hl=en) and [Prof. Sami Haddadin](https://en.wikipedia.org/wiki/Sami_Haddadin), Bachelor supervised by [Prof. Dibo Hou](https://person.zju.edu.cn/en/houdb) from Zhejiang University. During my undergraduate, I was fortunate to collobrate with [Dr. Alexandros Paraschos](https://scholar.google.com/citations?user=aCz_QHUAAAAJ), and [Dr. Nutan Chen](https://scholar.google.com/citations?user=HH3n9scAAAAJ&hl=de).
 
 
 ## Research interest
 
-My research wish is to build a robust, fully automated system with learning-based methods in the challenging and uncertain real-world. Particularly, I am keen to conduct research in the interdisciplinary area of Robotics and Artificial Intelligence, with passion for precise robotic perception and decision-making in a complicated and non-stationary environment. My interests in autonomous system deepened during my Internship in Bosch, about vision-based Perception with GAN technique in Stuttgart, for L5 autonomous driving Athena, a joint project of Robert Bosch GmbH and Daimler.
+My research wish is to build a robust, fully automated system with learning-based methods in the challenging and uncertain real-world. Particularly, I am keen to conduct research in the interdisciplinary area of Robotics and Artificial Intelligence, with passion for precise robotic perception and decision-making in a complicated and non-stationary environment.
 
 My research interest locates in the following area:
 
@@ -65,6 +64,10 @@ My research interest locates in the following area:
 
 ## Research Projects
 
+- **Data Factory with Minimal Human Effort Usin Diffusion Models and VLMs**
+Diverse Dataset synthesis with corresponding fine-grained labels leveraging VLMs and diffusion models.
+  
+ [[post]]([/jiaojiaoye/publication/cvae4hri_final](https://jjystem.github.io/DiffusionSyn/)) 
 - **Conditional VAE in Human-Robot Interaction** 
 
 Deep Learning for robot motion planning in human-robot interaction (HRI). We propose a real-time probabilistic model using LSTM-based conditional variational autoencoder (CVAE) for structured robot control policy learning and inference. 
