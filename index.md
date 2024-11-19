@@ -65,9 +65,12 @@ My research interest locates in the following area:
 ## Research Projects
 
 - **Data Factory with Minimal Human Effort Usin Diffusion Models and VLMs**
+  
 Diverse Dataset synthesis with corresponding fine-grained labels leveraging VLMs and diffusion models.
   
- [[post]]([/jiaojiaoye/publication/cvae4hri_final](https://jjystem.github.io/DiffusionSyn/)) 
+ [[web]](https://jjystem.github.io/DiffusionSyn/)[[code]](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
+
+ 
 - **Conditional VAE in Human-Robot Interaction** 
 
 Deep Learning for robot motion planning in human-robot interaction (HRI). We propose a real-time probabilistic model using LSTM-based conditional variational autoencoder (CVAE) for structured robot control policy learning and inference. 
