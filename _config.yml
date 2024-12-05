@@ -52,7 +52,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
 - markdowns/projects.md
-- markdowns/publication.md
+# - markdowns/publication.md
 - markdowns/awards.md
 - markdowns/misc.md
 # - markdowns/segmentation.md
