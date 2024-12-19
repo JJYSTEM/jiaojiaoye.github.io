@@ -31,8 +31,7 @@ layout: home
 <!-- [[GitHub]](https://github.com/JiaojiaoYe1994) [[Linkedin]](https://www.linkedin.com/in/jiaojiao-ye-99830b14a/) [[Profile]](https://argmax.ai/team/jiaojiao-ye/) <br>
  -->
 
-I am PhD student at the University of Oxford, obtained master from [Technical University of Munich](https://www.tum.de/en/) supervised by [Prof. Dr. Patrick van der Smagt](https://scholar.google.de/citations?user=5ybzvbsAAAAJ&hl=en) and [Prof. Sami Haddadin](https://en.wikipedia.org/wiki/Sami_Haddadin), Bachelor supervised by [Prof. Dibo Hou](https://person.zju.edu.cn/en/houdb) from Zhejiang University. During my undergraduate, I was fortunate to collobrate with [Dr. Alexandros Paraschos](https://scholar.google.com/citations?user=aCz_QHUAAAAJ), and [Dr. Nutan Chen](https://scholar.google.com/citations?user=HH3n9scAAAAJ&hl=de).
-
+I am PhD student at the University of Oxford, obtained master from [Technical University of Munich](https://www.tum.de/en/) supervised by [Prof. Dr. Patrick van der Smagt](https://scholar.google.de/citations?user=5ybzvbsAAAAJ&hl=en) and [Prof. Sami Haddadin](https://en.wikipedia.org/wiki/Sami_Haddadin), Bachelor from Zhejiang University. 
 
 ## Research interest
 
@@ -55,22 +54,8 @@ My research interest locates in the following area:
 * 2023 Talk about **Overview of Stable Diffusion** in the event organized by Datawhale, Epubit, [Hugging Face](https://huggingface.co/)  [[video]](https://www.bilibili.com/video/BV1hg4y1R7i5/?spm_id_from=333.1007.0.0&vd_source=6a179693a78e3c2c5a1d0b69c2726668) [[poster]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2023SD_datawhale.PNG)
 
 
-
-## Experience
-
-<img src="/jiaojiaoye/assets/imgs/logo_oxford.png" height="100"> <img src="/jiaojiaoye/assets/imgs/logo_argmax_volkswagen.png" height="100"> <img src="/jiaojiaoye/assets/imgs/logo_bosch.png" height="100">  <img src="/jiaojiaoye/assets/imgs/logo_fortiss.jpeg" height="100"> <img src="/jiaojiaoye/assets/imgs/logo_tu_munich.png" height="100"> <img src="/jiaojiaoye/assets/imgs/logo_Zhejiang_University.png" height="100">
-
-
-
 ## Research Projects
 
-- **Data Factory with Minimal Human Effort Usin Diffusion Models and VLMs**
-  
-Diverse Dataset synthesis with corresponding fine-grained labels leveraging VLMs and diffusion models.
-  
- [[web]](https://jjystem.github.io/DiffusionSyn/)[[code]](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
-
- 
 - **Conditional VAE in Human-Robot Interaction** 
 
 Deep Learning for robot motion planning in human-robot interaction (HRI). We propose a real-time probabilistic model using LSTM-based conditional variational autoencoder (CVAE) for structured robot control policy learning and inference. 
@@ -84,24 +69,6 @@ Deep Learning for robot motion planning in human-robot interaction (HRI). We pro
 ![](/jiaojiaoye/assets/imgs/mia_panda.gif ){:height="50%" width="50%" align="center"}
 <!-- <img src="/assets/imgs/lstm-cvae_framework.png"> -->
 
-- **Car racing game playing**
-
-Apply Deep Reinforcement Learning (DDPG specifically) to control [Torcs](https://sourceforge.net/projects/torcs/) (a car racing game) agent's movement. At each time step, car can move by steering, accelerating and braking. 
-
-[[video]](https://youtu.be/B1JdUByUQEw) [[torchs img]](https://drive.google.com/uc?id=1DaJIMTrMArL7ODlry6aDYG2w3XFr3_UC&export=download)
-
-![](/jiaojiaoye/assets/imgs/torcs.gif ){:height="50%" width="50%" align="center"}
-
-- **Motion Planning with Reinforcement Learning** 
-
-Vision-based Poppy Humanoid robot reaching Movement Learning with Deep Deterministic Policy Gradient(DDPG).
-
-[[video]](https://youtu.be/oOG4bsWDT0M) [[code]](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
-
-![](/jiaojiaoye/assets/imgs/poppy.gif ){:height="50%" width="50%" align="center"}
-
-
-
 ## Talk and Services
 
 * 2024 Talk about [**Sora**](https://openai.com/sora) in the seminar organized by Datawhale, ModelScope  [[video]](https://www.bilibili.com/video/BV1KZ42127GP/?buvid=XU0E30D0C6006B7F1EE1425156434CFEC440F&from_spmid=search.search-result.0.0&is_story_h5=false&mid=fMtk7pz9LsVpSyGt0Mcizg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=979d0b97-1db7-4e39-a2e1-45118a669051&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1708515033&unique_k=Poqnl0h&up_id=431850986) [[poster]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2024Sora.jpg)
@@ -109,7 +76,6 @@ Vision-based Poppy Humanoid robot reaching Movement Learning with Deep Determini
 * 2023 China National Computer Congress by China Computer Federation [poster](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2023CNCC.JPG)
 * Tutorial on Inference Speedup [tutorial](https://zhuanlan.zhihu.com/p/659723053)
 * Turorial on [Stable Diffusion](https://youtu.be/EN-w7kr2v9k) through Diffusers.
-
 
 
  <a href="https://clustrmaps.com/site/1br1t"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=97nUU-FjSo3XTeI1STkdpKlUaW4UMyu7RVO1xutT1PA&cl=ffffff" /></a>
