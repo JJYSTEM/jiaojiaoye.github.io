@@ -53,21 +53,6 @@ My research interest locates in the following area:
 * 2023 Talk about **Overview of Stable Diffusion** in the event organized by Datawhale, Epubit, [Hugging Face](https://huggingface.co/)  [[video]](https://www.bilibili.com/video/BV1hg4y1R7i5/?spm_id_from=333.1007.0.0&vd_source=6a179693a78e3c2c5a1d0b69c2726668) [[poster]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2023SD_datawhale.PNG)
 
 
-## Research Projects
-
-- **Conditional VAE in Human-Robot Interaction** 
-
-Deep Learning for robot motion planning in human-robot interaction (HRI). We propose a real-time probabilistic model using LSTM-based conditional variational autoencoder (CVAE) for structured robot control policy learning and inference. 
-
-**Supervisor**: [Prof. Dr. Patrick van der Smagt](https://argmax.ai/team/patrick-van-der-smagt/), [Prof. Dr.-Ing. Sami Haddadin](https://en.wikipedia.org/wiki/Sami_Haddadin)
-
-**Keynotes**: Variational AutoEncoder, BiLSTM, Human-Robot Interaction, Learning from Demonstration
-
-[[post]](/jiaojiaoye/publication/cvae4hri_final) [[paper]](https://github.com/JiaojiaoYe1994/jiaojiaoye.github.com/blob/master/posts/paper/Sequence_model_for_hri.pdf)
-
-![](/jiaojiaoye/assets/imgs/mia_panda.gif ){:height="50%" width="50%" align="center"}
-<!-- <img src="/assets/imgs/lstm-cvae_framework.png"> -->
-
 ## Talk and Services
 
 * 2024 Talk about [**Sora**](https://openai.com/sora) in the seminar organized by Datawhale, ModelScope  [[video]](https://www.bilibili.com/video/BV1KZ42127GP/?buvid=XU0E30D0C6006B7F1EE1425156434CFEC440F&from_spmid=search.search-result.0.0&is_story_h5=false&mid=fMtk7pz9LsVpSyGt0Mcizg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=979d0b97-1db7-4e39-a2e1-45118a669051&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1708515033&unique_k=Poqnl0h&up_id=431850986) [[poster]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2024Sora.jpg)
