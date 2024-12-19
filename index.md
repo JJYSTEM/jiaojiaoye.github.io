@@ -21,7 +21,7 @@ layout: home
                 <a href="https://en.zhejianglab.com/">Zhejiang Lab </a> <br>
                 <br>
                 <b>Email</b>: <a href="mailto:jiaojiao.ye@tum.de">jiaojiao.ye@tum.de </a> <br>
-                <a href="https://github.com/JiaojiaoYe1994">[GitHub] </a>  <a href="https://argmax.ai/team/jiaojiao-ye/">[Profile] </a> <a href="https://www.cs.ox.ac.uk/people/jiaojiao.ye/">[Official Account] </a>  <br>
+                <a href="https://argmax.ai/team/jiaojiao-ye/">[Profile] </a> <br>
             </p>
         </td>
         </tr>
