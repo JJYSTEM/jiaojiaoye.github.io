@@ -56,7 +56,7 @@ header_pages:
 # - markdowns/awards.md
 # - markdowns/misc.md
 # - markdowns/segmentation.md
- - markdowns/cvae4hri.md
+ - markdowns/cvae4hri_final.md
 
 # Build settings
 theme: minima
