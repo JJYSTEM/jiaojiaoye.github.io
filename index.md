@@ -31,7 +31,7 @@ layout: home
 <!-- [[GitHub]](https://github.com/JiaojiaoYe1994) [[Linkedin]](https://www.linkedin.com/in/jiaojiao-ye-99830b14a/) [[Profile]](https://argmax.ai/team/jiaojiao-ye/) <br>
  -->
 
-I am a PhD student at the University of Oxford, obtained Bachelor from Zhejiang University. 
+I am a PhD student at the University of Oxford, obtained Bachelor from [Zhejiang University](https://www.zju.edu.cn/english/). 
 
 ## Research interest
 
@@ -44,16 +44,9 @@ My research interest locates in the following area:
 * Reinforcement Learning
 
 
-
-## News
-
-* 2024 Presentation at [Oxbridge Conference](https://www.cs.ox.ac.uk/conferences/Oxbridge2024/)
-* 2024 Talk about [**Sora**](https://openai.com/sora) in the seminar organized by Datawhale, ModelScope [[video]](https://www.bilibili.com/video/BV1KZ42127GP/?buvid=XU0E30D0C6006B7F1EE1425156434CFEC440F&from_spmid=search.search-result.0.0&is_story_h5=false&mid=fMtk7pz9LsVpSyGt0Mcizg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=979d0b97-1db7-4e39-a2e1-45118a669051&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1708515033&unique_k=Poqnl0h&up_id=431850986) [[poster]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2024Sora.jpg)
-* Journey at [University of Oxford](https://www.ox.ac.uk/)
-
-
 ## Services
 
+* Presentation at [Oxbridge Conference](https://www.cs.ox.ac.uk/conferences/Oxbridge2024/)
 * Talk about [**Sora**](https://openai.com/sora) in the seminar organized by Datawhale, ModelScope  [[video]](https://www.bilibili.com/video/BV1KZ42127GP/?buvid=XU0E30D0C6006B7F1EE1425156434CFEC440F&from_spmid=search.search-result.0.0&is_story_h5=false&mid=fMtk7pz9LsVpSyGt0Mcizg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=979d0b97-1db7-4e39-a2e1-45118a669051&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1708515033&unique_k=Poqnl0h&up_id=431850986) [[poster]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2024Sora.jpg)
 * Talk about **Overview of Stable Diffusion** in the event organized by Datawhale, Epubit, [Hugging Face](https://huggingface.co/)  [[video]](https://www.bilibili.com/video/BV1hg4y1R7i5/?spm_id_from=333.1007.0.0&vd_source=6a179693a78e3c2c5a1d0b69c2726668) [[poster]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2023SD_datawhale.PNG)
 * China National Computer Congress by China Computer Federation [poster](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2023CNCC.JPG)
