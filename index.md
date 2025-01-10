@@ -31,11 +31,11 @@ layout: home
 <!-- [[GitHub]](https://github.com/JiaojiaoYe1994) [[Linkedin]](https://www.linkedin.com/in/jiaojiao-ye-99830b14a/) [[Profile]](https://argmax.ai/team/jiaojiao-ye/) <br>
  -->
 
-I am PhD student at the University of Oxford, obtained master from [Technical University of Munich](https://www.tum.de/en/) supervised by [Prof. Dr. Patrick van der Smagt](https://scholar.google.de/citations?user=5ybzvbsAAAAJ&hl=en) and [Prof. Sami Haddadin](https://en.wikipedia.org/wiki/Sami_Haddadin), Bachelor from Zhejiang University. 
+I am a PhD student at the University of Oxford, obtained Bachelor from Zhejiang University. 
 
 ## Research interest
 
-My research wish is to build a robust, fully automated system with learning-based methods in the challenging and uncertain real-world. Particularly, I am keen to conduct research in the interdisciplinary area of Robotics and Artificial Intelligence, with passion for precise robotic perception and decision-making in a complicated and non-stationary environment.
+My research wish is to build a robust, fully automated system with learning-based methods in the challenging and uncertain real-world. Particularly, I am keen to conduct research in the interdisciplinary area of Embodied Agent and Artificial Intelligence, with passion for precise robotic perception and decision-making in a 3D complicated and non-stationary environment.
 
 My research interest locates in the following area:
 
@@ -48,19 +48,15 @@ My research interest locates in the following area:
 ## News
 
 * 2024 Presentation at [Oxbridge Conference](https://www.cs.ox.ac.uk/conferences/Oxbridge2024/)
-* 2024 Talk about [**Sora**](https://openai.com/sora) in the seminar organized by Datawhale, ModelScope  [[video]](https://www.bilibili.com/video/BV1KZ42127GP/?buvid=XU0E30D0C6006B7F1EE1425156434CFEC440F&from_spmid=search.search-result.0.0&is_story_h5=false&mid=fMtk7pz9LsVpSyGt0Mcizg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=979d0b97-1db7-4e39-a2e1-45118a669051&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1708515033&unique_k=Poqnl0h&up_id=431850986) [[poster]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2024Sora.jpg)
-* 2024 Doctor journey at [University of Oxford](https://www.ox.ac.uk/)
-* 2023 Talk about **Overview of Stable Diffusion** in the event organized by Datawhale, Epubit, [Hugging Face](https://huggingface.co/)  [[video]](https://www.bilibili.com/video/BV1hg4y1R7i5/?spm_id_from=333.1007.0.0&vd_source=6a179693a78e3c2c5a1d0b69c2726668) [[poster]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2023SD_datawhale.PNG)
+* 2024 Talk about [**Sora**](https://openai.com/sora) in the seminar organized by Datawhale, ModelScope [[video]](https://www.bilibili.com/video/BV1KZ42127GP/?buvid=XU0E30D0C6006B7F1EE1425156434CFEC440F&from_spmid=search.search-result.0.0&is_story_h5=false&mid=fMtk7pz9LsVpSyGt0Mcizg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=979d0b97-1db7-4e39-a2e1-45118a669051&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1708515033&unique_k=Poqnl0h&up_id=431850986) [[poster]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2024Sora.jpg)
+* Journey at [University of Oxford](https://www.ox.ac.uk/)
 
 
-## Talk and Services
+## Services
 
-* 2024 Talk about [**Sora**](https://openai.com/sora) in the seminar organized by Datawhale, ModelScope  [[video]](https://www.bilibili.com/video/BV1KZ42127GP/?buvid=XU0E30D0C6006B7F1EE1425156434CFEC440F&from_spmid=search.search-result.0.0&is_story_h5=false&mid=fMtk7pz9LsVpSyGt0Mcizg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=979d0b97-1db7-4e39-a2e1-45118a669051&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1708515033&unique_k=Poqnl0h&up_id=431850986) [[poster]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2024Sora.jpg)
-* 2023 Talk about **Overview of Stable Diffusion** in the event organized by Datawhale, Epubit, [Hugging Face](https://huggingface.co/)  [[video]](https://www.bilibili.com/video/BV1hg4y1R7i5/?spm_id_from=333.1007.0.0&vd_source=6a179693a78e3c2c5a1d0b69c2726668) [[poster]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2023SD_datawhale.PNG)
-* 2023 China National Computer Congress by China Computer Federation [poster](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2023CNCC.JPG)
+* Talk about [**Sora**](https://openai.com/sora) in the seminar organized by Datawhale, ModelScope  [[video]](https://www.bilibili.com/video/BV1KZ42127GP/?buvid=XU0E30D0C6006B7F1EE1425156434CFEC440F&from_spmid=search.search-result.0.0&is_story_h5=false&mid=fMtk7pz9LsVpSyGt0Mcizg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=979d0b97-1db7-4e39-a2e1-45118a669051&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1708515033&unique_k=Poqnl0h&up_id=431850986) [[poster]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2024Sora.jpg)
+* Talk about **Overview of Stable Diffusion** in the event organized by Datawhale, Epubit, [Hugging Face](https://huggingface.co/)  [[video]](https://www.bilibili.com/video/BV1hg4y1R7i5/?spm_id_from=333.1007.0.0&vd_source=6a179693a78e3c2c5a1d0b69c2726668) [[poster]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2023SD_datawhale.PNG)
+* China National Computer Congress by China Computer Federation [poster](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2023CNCC.JPG)
 * Tutorial on Inference Speedup [tutorial](https://zhuanlan.zhihu.com/p/659723053)
-* Turorial on [Stable Diffusion](https://youtu.be/EN-w7kr2v9k) through Diffusers.
-* Reviewer at CVPR, ACM MM, BMCV etc.
-
 
  <a href="https://clustrmaps.com/site/1br1t"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=97nUU-FjSo3XTeI1STkdpKlUaW4UMyu7RVO1xutT1PA&cl=ffffff" /></a>
